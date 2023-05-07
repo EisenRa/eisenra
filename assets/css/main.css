@@ -3606,7 +3606,7 @@ input, select, textarea {
 /* Nav */
 
 	#nav {
-		color: #ffffff;
+		color: #000000;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -3649,7 +3649,7 @@ input, select, textarea {
 
 		#nav a {
 			color: #ffffff;
-			border-bottom-color: rgba(0, 0, 0, 0.5);
+			border-bottom-color: rgba(255, 255, 255, 0.5);
 		}
 
 			#nav a:hover {
