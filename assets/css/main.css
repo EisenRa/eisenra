@@ -3615,7 +3615,7 @@ input, select, textarea {
 		-webkit-transition: -webkit-transform 1s ease, opacity 1s ease;
 		-ms-transition: -ms-transform 1s ease, opacity 1s ease;
 		transition: transform 1s ease, opacity 1s ease;
-		background: rgba(0, 0, 0, 0.175);
+		background: rgba(95, 89, 89, 0.175);
 		height: 4rem;
 		line-height: 4rem;
 		margin: -4rem auto 0 auto;
@@ -3649,7 +3649,7 @@ input, select, textarea {
 
 		#nav a {
 			color: #ffffff;
-			border-bottom-color: rgba(255, 255, 255, 0.5);
+			border-bottom-color: rgba(0, 0, 0, 0.5);
 		}
 
 			#nav a:hover {
