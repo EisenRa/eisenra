@@ -7,7 +7,7 @@
 ---
 
 ### **RESEARCH EXPERTISE**
-##### Why is this text bold
+Why is this text bold
 
 ---
 ### **EDUCATION**
