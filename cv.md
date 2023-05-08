@@ -7,6 +7,7 @@
 ---
 
 ### **RESEARCH EXPERTISE**
+
 Why is this text bold
 
 ---
